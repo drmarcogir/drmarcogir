@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ## ✨Highlighted✨ repositories
-- [Forest disturbances](https://github.com/drmarcogir/ForestAtRisk)
+- [Forest disturbances](https://github.com/drmarcogir/ForestAtRisk) Python code for the preparation of environmental data used for studying forest disturbances in Europe. Reference: Forzieri G., Girardello M. et al. (2021) Nature Communications 12(1) 1-12.
