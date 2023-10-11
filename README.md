@@ -1,5 +1,5 @@
 ## Background 
-Quantitative ecologist working at the inferface between earth and data science
+Quantitative ecologist working at the inferface between data science and earth observation.
 
 <!--
 **drmarcogir/drmarcogir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
