@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-PhD in Computational Ecology :globe_with_meridians:
-
 ## ✨Highlighted✨ repositories
