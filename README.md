@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 - [Plant diversity in beech forests](https://github.com/drmarcogir/fagus) R code for analysing the drivers of plant diversity in European beech forests.<br> Reference: Jiménez-Alfaro, B., Girardello, M., Chytrý, M., Svenning, J. C., Willner, W., Gégout, J. C., ... & Wohlgemuth, T. (2018). History and environment shape species pools and community diversity in European beech forests. Nature Ecology & Evolution, 2(3), 483-490.
 
+- [Model averaging for Randomized Response Logistic Regression Models](https://github.com/drmarcogir/rrtmodavg) An R package for model selection and multi-model inference for Randomized Response Logistic Regression Models. The package includes functions for model selection and model-averaging for RRlog models, computed using the RRreg package.
