@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ## ✨Highlighted✨ repositories
-- [Forest disturbances](https://github.com/drmarcogir/ForestAtRisk) Python code for the preparation of environmental data used for studying forest disturbances in Europe.<br> Reference: Forzieri, G., Girardello, M., Ceccherini, G., Spinoni, J., Feyen, L., Hartmann, H., Beck, P.S., Camps-Valls, G., Chirici, G., Mauri, A. and Cescatti, A., 2021. Emergent vulnerability to climate-driven disturbances in European forests. Nature communications, 12(1), pp.1-12.
+- [Phenological diversity](https://github.com/drmarcogir/phenology/) Python and R code for the preparation of patterns and trends in global phenological diversity.<br> Reference: Girardello M.,Ceccherini G.,Duveiller G.,Migliavacca M.,Cescatti A. (2024). Patterns and trends in the spatial heterogeneity of land surface phenology of global forests. Environmental Research Communications (in press)  
+
+- [Forest disturbances](https://github.com/drmarcogir/ForestAtRisk) Python code for the preparation of environmental data used for studying forest disturbances in Europe.<br> Reference: Forzieri, G., Girardello, M., Ceccherini, G., Spinoni, J., Feyen, L., Hartmann, H., Beck, P.S., Camps-Valls, G., Chirici, G., Mauri, A. and Cescatti, A., (2021). Emergent vulnerability to climate-driven disturbances in European forests. Nature communications, 12(1), pp.1-12.
 
 - [Plant diversity in beech forests](https://github.com/drmarcogir/fagus) R code for analysing the drivers of plant diversity in European beech forests.<br> Reference: Jiménez-Alfaro, B., Girardello, M., Chytrý, M., Svenning, J. C., Willner, W., Gégout, J. C., ... & Wohlgemuth, T. (2018). History and environment shape species pools and community diversity in European beech forests. Nature Ecology & Evolution, 2(3), 483-490.
 
