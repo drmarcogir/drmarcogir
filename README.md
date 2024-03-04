@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## ✨Highlighted✨ repositories
-- [Phenological diversity](https://github.com/drmarcogir/phenology/) Python and R code for preparing and analysing data on patterns and trends in global phenological diversity.<br> Reference: Girardello, M., Ceccherini, G., Duveiller, G., Migliavacca, M., Cescatti, A. (2024). Patterns and trends in the spatial heterogeneity of land surface phenology of global forests. Environmental Research Communications (in press)  
+- [Phenological diversity](https://github.com/drmarcogir/phenology/) Python and R code for preparing and analysing data on patterns and trends in global phenological diversity.<br> Reference: Girardello, M., Ceccherini, G., Duveiller, G., Migliavacca, M., Cescatti, A. (2024). Patterns and trends in the spatial heterogeneity of land surface phenology of global forests. Environmental Research Communications (in press).  
 
 - [Forest disturbances](https://github.com/drmarcogir/ForestAtRisk) Python code for the preparation of environmental data used for studying forest disturbances in Europe.<br> Reference: Forzieri, G., Girardello, M., Ceccherini, G., Spinoni, J., Feyen, L., Hartmann, H., Beck, P.S., Camps-Valls, G., Chirici, G., Mauri, A. and Cescatti, A., (2021). Emergent vulnerability to climate-driven disturbances in European forests. Nature communications, 12(1), pp.1-12.
 
